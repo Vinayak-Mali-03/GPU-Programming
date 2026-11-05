@@ -1,0 +1,6 @@
+#include "OGL.h"
+
+IDICON ICON OGL.ico
+
+IDBITMAP_KUNDALI BITMAP	Vijay_Kundali.bmp
+

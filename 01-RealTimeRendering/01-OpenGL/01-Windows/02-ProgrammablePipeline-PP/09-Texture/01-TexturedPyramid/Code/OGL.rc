@@ -1,0 +1,7 @@
+#include "OGL.h"
+
+IDICON ICON OGL.ico
+
+IDBITMAP_STONE BITMAP Stone.bmp
+
+

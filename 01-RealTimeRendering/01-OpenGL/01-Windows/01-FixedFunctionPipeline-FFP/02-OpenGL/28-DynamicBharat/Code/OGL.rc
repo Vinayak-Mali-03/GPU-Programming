@@ -1,0 +1,6 @@
+#include "OGL.h"
+
+MYICON ICON OGL.ico
+
+MYSONG WAVE Dulhan_Chali_Song.wav
+
